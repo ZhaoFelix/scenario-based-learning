@@ -1,0 +1,31 @@
+{
+  "slug": "scenario-based-learning",
+  "name": "场景化学习课件工坊",
+  "display_name_en": "Scenario-Based Learning Studio",
+  "version": "1.0.0",
+  "author": "felix",
+  "license": "MIT",
+  "labels": {
+    "requires_api_key": "true",
+    "requires_network": "true",
+    "requires_browser": "true"
+  },
+  "description_zh": "把一个生活/工作场景一键做成场景化学习课件全家桶：10 分钟讲解视频（场景词汇 → 场景口语 → 场景短文三遍听法 → 今日口袋卡，自动分页防重叠）、A4 六页资料卡片 PDF、3:4 与 4:3 吸睛封面图、抖音/小红书发布文案、可交互学习页。触发场景：用户提到「场景化学习」「做一个 XX 场景的英语课」「场景学习课件」「把某个场景做成学习视频」「学习资料卡片导出 PDF」「课程封面图」，或任何『一个场景 → 课件 + 卡片 + 文案』的需求。内置视频引擎（HTML 板书 → Playwright 逐帧截图 → ffmpeg 合成）、MiMo 语音合成、卡片排版与封面模板。",
+  "description_en": "Turn one scenario into a full courseware kit: a narrated lesson video (vocabulary, phrases, a 100-word passage with three listen-through passes, pocket Q&A card with auto-pagination), a printable 6-page A4 study-card PDF, 3:4 and 4:3 eye-catching covers, Douyin/Xiaohongshu release copy, and an interactive study page. Trigger whenever the user asks for scenario-based learning courseware, study-card PDFs, or course covers.",
+  "examples_zh": [
+    "做一个「咖啡店点单」的场景化英语课",
+    "把超市购物这个场景做成学习视频和资料卡片",
+    "帮我生成这节课的封面图和抖音小红书文案",
+    "把今天的课程内容导出成 PDF 资料卡片",
+    "用场景化学习的方式教我租房英语"
+  ],
+  "examples_en": [
+    "Create a scenario-based English lesson for ordering coffee",
+    "Turn the supermarket scenario into a lesson video and study cards",
+    "Generate covers and Douyin/Xiaohongshu copy for this lesson",
+    "Export today's lesson as a printable A4 study-card PDF",
+    "Teach me apartment-renting English with scenario-based learning"
+  ],
+  "categories": ["education", "content-creation", "video"],
+  "tags": ["英语学习", "场景化学习", "课程视频", "资料卡片", "封面图", "自媒体文案", "education", "video"]
+}

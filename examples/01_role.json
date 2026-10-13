@@ -1,0 +1,80 @@
+[
+  {
+    "q_en": "Good morning. May I see your passport, please? Next, what's the purpose of your visit?",
+    "q_zh": "早上好，请出示护照。您此行的目的是什么？",
+    "opts": [
+      "I'm here on tourism.",
+      "My purpose is travel.",
+      "I go to America for tourism."
+    ],
+    "ans": 0,
+    "good": "I'm here on tourism.",
+    "why": "美式口语里 purpose 最自然的搭配是 be + on + 名词。travel 是动词不能说 My purpose is travel；I go to America 是第三人称单数要加 s，而且时态也不对。",
+    "tip": "💡 官员只想要一个词：tourism。别展开解释。"
+  },
+  {
+    "q_en": "Thank you. How long are you staying in the United States?",
+    "q_zh": "谢谢。您打算在美国待多久？",
+    "opts": [
+      "How long are you staying?",
+      "I am stay for three weeks.",
+      "Three weeks."
+    ],
+    "ans": 2,
+    "good": "Three weeks.",
+    "why": "官员问 how long，答案就必须是时长本身，不要反问。他不是在问你打算待多久的打算，而是在问客观时长。另外 stay 后面要加 for。",
+    "tip": "💡 永远带数字。a long time 听起来像在回避问题。"
+  },
+  {
+    "q_en": "Where will you be staying during your visit?",
+    "q_zh": "您此行期间会住在哪里？",
+    "opts": [
+      "At my friend's house.",
+      "I'll be staying at a hotel in Brooklyn, New York.",
+      "In my friend's home."
+    ],
+    "ans": 1,
+    "good": "I'll be staying at a hotel in Brooklyn, New York.",
+    "why": "美国官员需要具体地址来核查。「在朋友家」太模糊，会被继续追问，反而更紧张。给出州名和城市是最省事的回答。at home 表示在自己家，但接 friend's 显得随意。",
+    "tip": "💡 提前查好酒店的英文名和所在城市。"
+  },
+  {
+    "q_en": "What do you do for a living?",
+    "q_zh": "您是做什么工作的？",
+    "opts": [
+      "I'm a software engineer.",
+      "I am engineer.",
+      "My job is engineer."
+    ],
+    "ans": 0,
+    "good": "I'm a software engineer.",
+    "why": "这是中式英语的重灾区。英文职业名词前必须有冠词或限定词，不能光秃秃一个名词。I am engineer 缺冠词 a；My job is engineer 同样缺冠词。",
+    "tip": "💡 口诀：单数可数名词裸奔必错，前面加 a/an/the。"
+  },
+  {
+    "q_en": "Okay. Do you have anything to declare?",
+    "q_zh": "好的，您有需要申报的东西吗？",
+    "opts": [
+      "No, nothing.",
+      "No, I don't have any declare.",
+      "I have nothing to declare anything."
+    ],
+    "ans": 0,
+    "good": "No, nothing.",
+    "why": "declare 是动词，不能和 any 搭配；any 后面要跟名词复数。任何物品都要申报，包括超过一万美元的现金、肉制品和鲜水果。如实申报只是走流程，不申报才是真的麻烦。",
+    "tip": "💡 短答最安全：No, nothing. 不用解释。"
+  },
+  {
+    "q_en": "You're all set. Next, where's your luggage claim? Follow the signs to baggage claim.",
+    "q_zh": "可以了。您的行李提取处在哪？跟着指示牌去行李大厅。",
+    "opts": [
+      "Where's my baggage claim?",
+      "Where is claim my luggage?",
+      "I don't know claim."
+    ],
+    "ans": 0,
+    "good": "Where's my baggage claim?",
+    "why": "名词顺序是 baggage claim（行李提取处），不是 claim baggage。luggage claim 和 baggage claim 都可以，但 baggage 更通用。",
+    "tip": "💡 到了大厅看大屏幕，找到自己那趟航班号对应的转盘号码。"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "i": 1,
+    "q": "默写：What’s the ___ of your visit?（填 purpose）",
+    "a": "What's the purpose of your visit?  答：I'm here on tourism."
+  },
+  {
+    "i": 2,
+    "q": "默写：How long are you ___?（填 staying 的正确形式）",
+    "a": "How long are you staying?  答：Three weeks.（注意 stay 要加 -ing）"
+  },
+  {
+    "i": 3,
+    "q": "默写：Do you have anything to ___?（填 declare）",
+    "a": "Do you have anything to declare?  答：No, nothing."
+  }
+]

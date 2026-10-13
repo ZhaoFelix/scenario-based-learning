@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "id": "01",
+    "lesson": "01",
+    "series": "美国生活英语",
+    "scene": "机场入境与通关",
+    "scene_en": "Airport Immigration & Customs",
+    "day": 1,
+    "cover": {
+      "img_v": "assets/01_cover_v.png",
+      "img_h": "assets/01_cover_h.png",
+      "big1": "入境美国",
+      "big2": "只用这 5 句",
+      "sub": "海关问答 · 背完直接过"
+    }
+  },
+  "slides": [
+    {
+      "name": "封面",
+      "layout": "cover",
+      "blocks": [
+        {"type": "sub", "text": "DAY 01 · 落地第一关", "batch": 0,
+         "say_zh": "第一天，落地美国的第一关。"},
+        {"type": "h", "text": "机场入境与通关", "batch": 0,
+         "say_zh": "今天学机场入境和海关检查。"},
+        {"type": "en", "text": "==Airport== Immigration & Customs", "batch": 0,
+         "say": "Airport immigration and customs.",
+         "say_zh": "这是美国海关的正式叫法。"},
+        {"type": "zh", "text": "学完能做什么：**一个人把海关过完，一句话不多说，一次过。**", "batch": 0,
+         "say_zh": "学完这课，你能一个人把海关过完，一次过。"}
+      ]
+    },
+    {
+      "name": "一、场景词汇",
+      "layout": "vocab",
+      "blocks": [
+        {"type": "sub", "text": "PART 1 · 场景词汇 · SCENE WORDS", "batch": 0, "wide": true,
+         "say_zh": "第一部分，场景词汇。"},
+        {"type": "h", "text": "先认这 10 个词", "batch": 0, "wide": true,
+         "say_zh": "先认识这十个词，后面全靠它们。"},
+
+        {"type": "vocab", "w": "purpose", "ph": "/ˈpɜːrpəs/", "pos": "n.", "cn": "目的，意图",
+         "eg": "What's the purpose of your visit?", "batch": 1,
+         "say": "purpose. What's the purpose of your visit?",
+         "say_zh": "purpose，目的。海关第一句就问你此行的目的。"},
+
+        {"type": "vocab", "w": "visit", "ph": "/ˈvɪzɪt/", "pos": "n. / v.", "cn": "访问，探访",
+         "eg": "This is my first visit to the US.", "batch": 2,
+         "say": "visit. This is my first visit to the U.S.",
+         "say_zh": "visit，访问。purpose of your visit 就是此行的目的。"},
+
+        {"type": "vocab", "w": "tourism", "ph": "/ˈtʊrɪzəm/", "pos": "n.", "cn": "旅游，观光",
+         "eg": "I'm here on tourism.", "batch": 3,
+         "say": "tourism. I'm here on tourism.",
+         "say_zh": "tourism，旅游。注意介词，是 on tourism。"},
+
+        {"type": "vocab", "w": "stay", "ph": "/steɪ/", "pos": "v.", "cn": "停留，待",
+         "eg": "I'll stay for three weeks.", "batch": 4,
+         "say": "stay. I'll stay for three weeks.",
+         "say_zh": "stay，停留。回答待多久就用它。"},
+
+        {"type": "vocab", "w": "passport", "ph": "/ˈpæspɔːrt/", "pos": "n.", "cn": "护照",
+         "eg": "Here's my passport.", "batch": 5,
+         "say": "passport. Here's my passport.",
+         "say_zh": "passport，护照。递的时候说 here you are。"},
+
+        {"type": "vocab", "w": "address", "ph": "/ˈædres/", "pos": "n.", "cn": "地址",
+         "eg": "Here's my address.", "batch": 6,
+         "say": "address. Here's my address.",
+         "say_zh": "address，地址，重音在前。海关问住哪儿，直接给地址。"},
+
+        {"type": "vocab", "w": "return", "ph": "/rɪˈtɜːrn/", "pos": "adj. / v.", "cn": "回程的；返回",
+         "eg": "Do you have a return ticket?", "batch": 7,
+         "say": "return. Do you have a return ticket?",
+         "say_zh": "return，回程的。return ticket 回程机票，几乎必问。"},
+
+        {"type": "vocab", "w": "declare", "ph": "/dɪˈkler/", "pos": "v.", "cn": "申报",
+         "eg": "Nothing to declare.", "batch": 8,
+         "say": "declare. Nothing to declare.",
+         "say_zh": "declare，申报。Nothing to declare 是最标准的回答。"},
+
+        {"type": "vocab", "w": "customs", "ph": "/ˈkʌstəmz/", "pos": "n.", "cn": "海关",
+         "eg": "Please go through customs.", "batch": 9,
+         "say": "customs. Please go through customs.",
+         "say_zh": "customs，海关。记住它永远带 s。"},
+
+        {"type": "vocab", "w": "officer", "ph": "/ˈɔːfɪsər/", "pos": "n.", "cn": "官员，警官",
+         "eg": "Good morning, officer.", "batch": 10,
+         "say": "officer. Good morning, officer.",
+         "say_zh": "officer，官员。称呼海关官员，叫 officer 就很礼貌。"},
+
+        {"type": "tip", "ic": "🎯", "batch": 11, "wide": true,
+         "text": "这 10 个词里，**purpose / visit / stay / declare** 是必须能说出口的，剩下 6 个能听懂就够了。",
+         "say_zh": "这十个词里，purpose、visit、stay、declare 四个必须能说出口，其余听懂就行。"}
+      ]
+    },
+    {
+      "name": "二、场景口语",
+      "layout": "stack",
+      "blocks": [
+        {"type": "sub", "text": "PART 2 · 场景口语 · SCENE PHRASES", "batch": 0,
+         "say_zh": "第二部分，场景口语。"},
+        {"type": "h", "text": "五句话走完全程", "batch": 0,
+         "say_zh": "海关只会问五个问题，一次背熟。"},
+
+        {"type": "phrase", "en": "==What's the purpose== of your ==visit==?",
+         "cn": "你此行的目的是什么？",
+         "tip": "回答只要一个词：**Tourism.**（旅游）或 **Business.**（商务）",
+         "batch": 1,
+         "say": "What's the purpose of your visit?",
+         "say_zh": "回答越短越好，旅游就说 Tourism，商务就说 Business。"},
+
+        {"type": "phrase", "en": "==How long== are you staying?",
+         "cn": "你打算待多久？",
+         "tip": "回答必须**带具体时间**：Three weeks. / Ten days.",
+         "batch": 2,
+         "say": "How long are you staying?",
+         "say_zh": "回答一定带具体时间，三周、十天。别说 a long time。"},
+
+        {"type": "phrase", "en": "==Where== will you be staying?",
+         "cn": "你会住在哪里？",
+         "tip": "给**具体地址**最安全：A hotel in Brooklyn, New York.",
+         "batch": 3,
+         "say": "Where will you be staying?",
+         "say_zh": "别只说住朋友家，说出城市和具体地址。"},
+
+        {"type": "phrase", "en": "Do you have a ==return== ticket?",
+         "cn": "你有回程机票吗？",
+         "tip": "有就说 **Yes, here it is.** 同时把票递过去。",
+         "batch": 4,
+         "say": "Do you have a return ticket?",
+         "say_zh": "有的话说 Yes, here it is，同时把票递过去。"},
+
+        {"type": "phrase", "en": "Anything to ==declare==?",
+         "cn": "有什么需要申报的吗？",
+         "tip": "标准答案：**No, nothing.** 别多解释。",
+         "batch": 5,
+         "say": "Anything to declare?",
+         "say_zh": "标准答案就是 No, nothing，别多解释。"}
+      ]
+    },
+    {
+      "name": "三、场景短文",
+      "layout": "passage",
+      "image": "assets/01_passage.png",
+      "image_caption": "入境大厅 · 你把护照递给海关官员",
+      "passes": ["en", "bi", "blind"],
+      "blocks": [
+        {"type": "line", "who": "旁白", "batch": 1,
+         "text": "You walk up to the ==customs== desk. An ==officer== in uniform looks up and smiles.",
+         "cn": "你走到海关柜台前，一位穿制服的官员抬起头，朝你笑了一下。",
+         "say": "You walk up to the customs desk. An officer in uniform looks up and smiles."},
+
+        {"type": "line", "who": "OFFICER", "batch": 2,
+         "text": "Good morning. May I see your ==passport==?",
+         "cn": "早上好，可以看一下你的护照吗？",
+         "say": "Good morning. May I see your passport?"},
+
+        {"type": "line", "who": "YOU", "batch": 3,
+         "text": "Good morning. Here you are.",
+         "cn": "早上好，给您。",
+         "say": "Good morning. Here you are."},
+
+        {"type": "line", "who": "OFFICER", "batch": 4,
+         "text": "What's the ==purpose== of your ==visit==?",
+         "cn": "你此行的目的是什么？",
+         "say": "What's the purpose of your visit?"},
+
+        {"type": "line", "who": "YOU", "batch": 5,
+         "text": "I'm here on ==tourism==. I'll ==stay== for three weeks.",
+         "cn": "我是来旅游的，待三个星期。",
+         "say": "I'm here on tourism. I'll stay for three weeks."},
+
+        {"type": "line", "who": "OFFICER", "batch": 6,
+         "text": "Where will you be staying?",
+         "cn": "你会住在哪里？",
+         "say": "Where will you be staying?"},
+
+        {"type": "line", "who": "YOU", "batch": 7,
+         "text": "At a hotel in Brooklyn. Here's my ==address==.",
+         "cn": "布鲁克林的一家酒店，这是我的地址。",
+         "say": "At a hotel in Brooklyn. Here's my address."},
+
+        {"type": "line", "who": "OFFICER", "batch": 8,
+         "text": "Do you have a ==return== ticket?",
+         "cn": "你有回程机票吗？",
+         "say": "Do you have a return ticket?"},
+
+        {"type": "line", "who": "YOU", "batch": 9,
+         "text": "Yes, I do. It's in my bag.",
+         "cn": "有的，在我包里。",
+         "say": "Yes, I do. It's in my bag."},
+
+        {"type": "line", "who": "OFFICER", "batch": 10,
+         "text": "Anything to ==declare==?",
+         "cn": "有什么需要申报的吗？",
+         "say": "Anything to declare?"},
+
+        {"type": "line", "who": "YOU", "batch": 11,
+         "text": "No, nothing to declare.",
+         "cn": "没有，没什么要申报的。",
+         "say": "No, nothing to declare."},
+
+        {"type": "line", "who": "OFFICER", "batch": 12,
+         "text": "All right. Please go through ==customs==. Welcome to the United States.",
+         "cn": "好的，请走海关通道。欢迎来到美国。",
+         "say": "All right. Please go through customs. Welcome to the United States."}
+      ]
+    },
+    {
+      "name": "今日回顾",
+      "layout": "stack",
+      "blocks": [
+        {"type": "sub", "text": "TODAY · 今日口袋卡", "batch": 0,
+         "say_zh": "最后，今天的口袋卡。"},
+        {"type": "h", "text": "记住这 5 组问答就够", "batch": 0,
+         "say_zh": "记住这五组问答，今天就算过关。"},
+
+        {"type": "kv", "batch": 1, "text": "What's the purpose of your visit?　→　==Tourism.==",
+         "say": "What's the purpose of your visit? Tourism."},
+        {"type": "kv", "batch": 2, "text": "How long are you staying?　→　==Three weeks.==",
+         "say": "How long are you staying? Three weeks."},
+        {"type": "kv", "batch": 3, "text": "Where will you be staying?　→　==A hotel in Brooklyn, New York.==",
+         "say": "Where will you be staying? A hotel in Brooklyn, New York."},
+        {"type": "kv", "batch": 4, "text": "Do you have a return ticket?　→　==Yes, here it is.==",
+         "say": "Do you have a return ticket? Yes, here it is."},
+        {"type": "kv", "batch": 5, "text": "Anything to declare?　→　==No, nothing.==",
+         "say": "Anything to declare? No, nothing."},
+
+        {"type": "tip", "ic": "🔁", "batch": 6,
+         "text": "**今天的动作**：打开手机录音，把上面 5 组问答各说 3 遍，回放听自己的发音。明天先不看答案，遮住右边再说一遍。",
+         "say_zh": "今天的动作：录音，把五组问答各说三遍，回放听自己的发音。"}
+      ]
+    }
+  ]
+}

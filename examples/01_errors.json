@@ -1,0 +1,32 @@
+[
+  {
+    "bad": "I am engineer.",
+    "good": "I'm a software engineer.",
+    "why": "英文职业名词前必须有冠词。单数可数名词不能「裸奔」，前面要加 a / an / the。中国学生几乎必犯。"
+  },
+  {
+    "bad": "I am stay for three weeks.",
+    "good": "I'm staying for three weeks.",
+    "why": "be动词后面不能直接跟动词原形。要么用进行时（I'm staying，表示已安排的停留），要么用将来时（I'll stay）。"
+  },
+  {
+    "bad": "My purpose is travel.",
+    "good": "I'm here on tourism.",
+    "why": "travel 是动词，不能当名词用。表示目的地的名词是 tourism。最自然的说法是 be + on + 名词。"
+  },
+  {
+    "bad": "How long are you stay?",
+    "good": "How long are you staying?",
+    "why": "疑问句里 stay 要变成 -ing 形式。问句主语是 you，be 动词用 are，后面必须跟动名词。"
+  },
+  {
+    "bad": "No, I don't have any declare.",
+    "good": "No, I don't have anything to declare.",
+    "why": "declare 是动词，不能跟在 any 后面。固定搭配是 anything to declare（有待申报的东西）。"
+  },
+  {
+    "bad": "Where is claim my luggage?",
+    "good": "Where's my baggage claim?",
+    "why": "名词顺序固定：baggage claim（行李提取处）。不能说 claim baggage。luggage claim 也对，但 baggage 更通用。"
+  }
+]
